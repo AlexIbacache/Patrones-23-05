@@ -35,3 +35,5 @@ Seccion 2
 ![DiagramaImplementacion](https://github.com/user-attachments/assets/e8684116-ee2b-444f-ae92-aa56b36412ff)
 
 1- Falta colocar nombres en las relaciones ejemplo si son **html**, **sql**, **ORM**, etc.
+
+2- No se muestra claramente que artefactos esta dentro de los nodos
